@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Linux expert<br>- Cybersecurity student<br>- Speaks: Albanian, English, Spanish<br>- 17
+- Linux expert<br>-Cybersecurity student<br>-Speaks: Albanian, English, Spanish<br>-17
 
 
 ## 🌐 Socials:
