@@ -5,11 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2ECC71&center=true&vCenter=true&width=440&lines=distro-hopped+like+it's+my+job;linux+%3E+everything+else;learning+C+%2B%2B+rn+bear+w+me" alt="Typing SVG" />
 </p>
 
----
+```
       /\          adriel@adriel
      /  \         ─────────────────────────────
     /\   \        OS: Arch Linux x86_64
-   /      \       Kernel: 7.2.2-1-cachyos
+   /      \       Kernel: adriel kernel
   /   ,,   \      WM: Hyprland 0.56.2 (Wayland)
  /   |  |  -\     Packages: 38 (flatpak), 1559 (pacman)
 /_-''    ''-_\    Terminal: kitty 0.48.2
@@ -17,6 +17,7 @@
                   Locale: en_US.UTF-8
                   
                   ● ● ● ● ● ● ● ●
+```
 ```
 > lsblk
 adriel/sitteh, 17, cybersecurity student, Currently in Highschool
