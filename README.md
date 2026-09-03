@@ -28,4 +28,5 @@ C, C++, Java, Python
 **26°C · Clear ☀️🌙** — snapshot from *Sep 4, 2026*
 > 
 
-<p align="center">⭐ more stuff coming as i learn more, stay tuned</p>
+# 🔗 hmu
+<p align="left"> <a href="https://discord.com/users/leliadriel" target="_blank"> <img src="https://img.shields.io/badge/Discord-leliadriel-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <a href="https://instagram.com/leliadriel_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-leliadriel__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://snapchat.com/add/leliadriel" target="_blank"> <img src="https://img.shields.io/badge/Snapchat-leliadriel-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" /> </a> <a href="mailto:adrielprivate1@gmail.com"> <img src="https://img.shields.io/badge/Email-adrielprivate1-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
