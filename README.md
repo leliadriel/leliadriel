@@ -1,4 +1,4 @@
-<h1 align="center">sudo pacman -S adriel_the_goat</h1>
+<h1 align="center">adriel@adriel</h1>
 <h3 align="center">🔐 cybersec student · 🐧 linux enjoyer · learning Coding</h3>
 
 <p align="center">
