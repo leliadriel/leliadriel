@@ -19,13 +19,13 @@
                   ● ● ● ● ● ● ● ●
 ```
 ```
-> lsblk
+> whoami
 adriel/sitteh, 17, cybersecurity student, Currently in Highschool
 
-> distros_used
+> lsblk
 arch, fedora, debian + basically everything else at some point
 
-> currently_learning
+> git get
 C, C++, Java, Python
 ```
 
