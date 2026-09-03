@@ -1,9 +1,9 @@
 # Kush jam un? 🤑🤑
-🎓 Cybersecurity student
-🐧 3-4+ years of hands-on Linux experience (arch btw)
-💻 Currently learning Java, C, C++ (and most coding)
-🔍 Interested in penetration testing, network security, and systems-level security
-🌱 Always learning and intrested on helping on small projects so just dm me for anything ill help 
+- 🎓 Cybersecurity student
+- 🐧 3-4+ years of hands-on Linux experience (arch btw)
+- 💻 Currently learning Java, C, C++ (and most coding)
+- 🔍 Interested in penetration testing, network security, and systems-level security
+- 🌱 Always learning and intrested on helping on small projects so just dm me for anything ill help 
 
 # 📚 Currently Learning
 ☕ Java (OOP, data structures, application security)
