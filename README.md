@@ -32,3 +32,23 @@ C, C++, Java, Python
 <p align="left"> <img src="https://img.shields.io/badge/-Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> <img src="https://img.shields.io/badge/-Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" /> <img src="https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/-Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" /> <img src="https://img.shields.io/badge/-Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" /> <img src="https://img.shields.io/badge/-openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" /> <img src="https://img.shields.io/badge/-Pop!__OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" /> <img src="https://img.shields.io/badge/-Endeavour_OS-7F3FBF?style=for-the-badge&logo=linux&logoColor=white" /> </p>
 <h2 align="center"> 🔗 hmu
 <p align="left"> <a href="https://discord.com/users/leliadriel" target="_blank"> <img src="https://img.shields.io/badge/Discord-leliadriel-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <a href="https://instagram.com/leliadriel_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-leliadriel__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://snapchat.com/add/leliadriel" target="_blank"> <img src="https://img.shields.io/badge/Snapchat-leliadriel-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" /> </a> <a href="mailto:adrielprivate1@gmail.com"> <img src="https://img.shields.io/badge/Email-adrielprivate1-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+
+<pre>adriel@adriel
+────────────────────────────────────────────────
+▸ Arch OS x86_64
+▸ Linux 7.2.2-1-cachyos
+▸ Hyprland 0.56.2 (Wayland)
+▸ 38 (flatpak), 1559 (pacman)
+────────────────────────────────────────────────
+▸ 3.14 GiB / 14.45 GiB (22%)
+▸ 20YG003XUK (ThinkPad E15 Gen 3)
+▸ AMD Ryzen 5 5500U (12) @ 4.06 GHz
+▸ AMD Lucienne [Integrated]
+▸ 62.23 GiB / 237.97 GiB (26%) - btrfs
+▸ 39% [Discharging]
+────────────────────────────────────────────────
+▸ 59 mins uptime
+▸ kitty 0.48.2
+▸ en_US.UTF-8
+
+● ● ● ● ● ● ● ●</pre>
