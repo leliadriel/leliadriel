@@ -25,7 +25,7 @@ adriel/sitteh, 17, cybersecurity student, Currently in Highschool
 > lsblk
 arch, fedora, debian + basically everything else at some point
 
-> git get
+> sudo pacman -Syyu (aka learning)
 C, C++, Java, Python
 ```
 
